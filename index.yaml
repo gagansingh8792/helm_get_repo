@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-05T23:54:55.358008919+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 38537fc19e121c165d57a2222a787e288e14e0571b5d591dbe105e859664de16
+    name: mychart
+    type: application
+    urls:
+    - mychart-0.1.0.tgz
+    version: 0.1.0
+  myrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-05T23:54:55.358685444+05:30"
+    description: helm repo test chart version 0.1.2
+    digest: 659da86e32c66640bc7c2c25e56ace0c32975f01090734bd7fceebb9b6a073b3
+    name: myrepotest
+    type: application
+    urls:
+    - myrepotest-0.1.2.tgz
+    version: 0.1.2
+generated: "2020-10-05T23:54:55.357210532+05:30"
